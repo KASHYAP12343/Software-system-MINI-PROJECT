@@ -185,7 +185,7 @@ Authenticated with **Manager ID + Password** (role = 0).
 | Logout / Exit | Clean session termination |
 
 ### 🔐 Admin
-Authenticated with a **hardcoded master password** (`PASS@123`).
+Authenticated with a **hardcoded master password** .
 
 | Feature | Description |
 |---|---|
